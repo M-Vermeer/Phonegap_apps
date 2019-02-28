@@ -54,3 +54,30 @@ function euroConverter(){
 function dollarConverter(){
     document.converter.euro.value = document.converter.dollar.value * 0.680;
 }
+function dot() {
+    document.getElementById("btn").value = ".";
+}
+function remove() {
+    document.getElementById("conv").reset();
+}
+
+
+const inputs = ['value', 'value2'];
+let el_focus;
+window.addEventListener('focus', function( event ) {
+    const el = event.path[0];
+    if (inputs.includes(el.id) ) {
+        el_focus = el;
+    }
+}, true);
+
+document.getElementById('button').addEventListener('click', ()=>{
+    console.log(el_focus);
+    document.querySelectorAll("button.number-button");
+});
+
+for (i = 0; i < buttons.length; i++) {
+    buttons[i].addEventListener("click", function(event) {
+        input.value = input.value + event.currentTarget.value
+    })
+}
