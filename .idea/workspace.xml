@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34884091-6797-439a-960b-6ad082761f9c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Phonegap_apps" beforeDir="false" afterPath="$PROJECT_DIR$/Phonegap_apps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Phonegap_apps/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Phonegap_apps/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,7 +21,8 @@
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -60,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
+            <state relative-caret-position="1080">
               <caret line="72" column="52" selection-start-line="72" selection-start-column="52" selection-end-line="72" selection-end-column="52" />
             </state>
           </provider>
@@ -69,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="1800">
               <caret line="120" column="14" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
             </state>
           </provider>
@@ -78,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="75" column="54" lean-forward="true" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="54" />
+            <state relative-caret-position="520">
+              <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -232,96 +234,6 @@
       <path value="$PROJECT_DIR$/Phonegap_apps/node_modules/cordova-plugin-network-information/tests/package.json" />
       <path value="$PROJECT_DIR$/Phonegap_apps/node_modules/cordova-plugin-vibration/package.json" />
       <path value="$PROJECT_DIR$/Phonegap_apps/node_modules/cordova-plugin-vibration/tests/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/abbrev/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/accepts/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/ansi-regex/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/ansi-styles/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/ansi/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/array-flatten/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/balanced-match/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/base64-js/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/big-integer/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/body-parser/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/bplist-parser/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/brace-expansion/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/bytes/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/chalk/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/compressible/node_modules/mime-db/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/compressible/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/compression/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/concat-map/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/content-disposition/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/content-type/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/cookie-signature/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/cookie/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/cordova-common/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/cordova-registry-mapper/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/cordova-serve/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/debug/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/depd/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/destroy/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/ee-first/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/elementtree/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/encodeurl/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/escape-html/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/escape-string-regexp/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/etag/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/express/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/finalhandler/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/forwarded/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/fresh/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/glob/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/has-ansi/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/http-errors/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/iconv-lite/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/inflight/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/ipaddr.js/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/is-wsl/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/media-typer/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/merge-descriptors/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/methods/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/mime-db/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/mime-types/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/mime/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/minimatch/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/ms/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/negotiator/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/nopt/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/on-finished/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/on-headers/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/once/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/opn/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/parseurl/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/path-is-absolute/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/path-to-regexp/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/plist/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/proxy-addr/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/q/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/qs/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/range-parser/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/raw-body/node_modules/depd/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/raw-body/node_modules/http-errors/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/raw-body/node_modules/setprototypeof/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/raw-body/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/sax/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/send/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/serve-static/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/setprototypeof/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/shelljs/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/statuses/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/strip-ansi/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/supports-color/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/type-is/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/underscore/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/unorm/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/unpipe/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/utils-merge/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/vary/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/wrappy/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/xmlbuilder/package.json" />
-      <path value="$PROJECT_DIR$/Phonegap_apps/platforms/browser/cordova/node_modules/xmldom/package.json" />
       <path value="$PROJECT_DIR$/Phonegap_apps/plugins/cordova-plugin-battery-status/package.json" />
       <path value="$PROJECT_DIR$/Phonegap_apps/plugins/cordova-plugin-battery-status/tests/package.json" />
       <path value="$PROJECT_DIR$/Phonegap_apps/plugins/cordova-plugin-camera/package.json" />
@@ -542,15 +454,15 @@
       <workItem from="1550824418546" duration="3727000" />
       <workItem from="1551003944492" duration="2776000" />
       <workItem from="1551093390289" duration="5090000" />
+      <workItem from="1551361048686" duration="226000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11593000" />
+    <option name="totallyTimeSpent" value="11819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -584,24 +496,24 @@
     <entry file="file://$PROJECT_DIR$/Phonegap_apps/README.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/index.css">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="120" column="14" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
+        <state relative-caret-position="1080">
+          <caret line="72" column="52" selection-start-line="72" selection-start-column="52" selection-end-line="72" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
+    <entry file="file://$PROJECT_DIR$/www/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="72" column="52" selection-start-line="72" selection-start-column="52" selection-end-line="72" selection-end-column="52" />
+        <state relative-caret-position="1800">
+          <caret line="120" column="14" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="75" column="54" lean-forward="true" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="54" />
+        <state relative-caret-position="520">
+          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
