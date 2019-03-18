@@ -33,6 +33,31 @@ var app = {
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
     // function, we must explicitly call 'ValutaCalc.receivedEvent(...);'
     onDeviceReady: function() {
+
+        const inputs = ['value', 'value2'];
+        let el_focus = document.getElementById('value');
+        window.addEventListener('focus', function( event ) {
+            const el = event.path[0];
+            if (inputs.includes(el.id) ) {
+                el_focus = el;
+            }
+        }, true);
+
+
+        // document.getElementById('button').addEventListener('click', ()=>{
+        //     console.log(el_focus);
+        //     document.getElementById('value').value = '1';
+        //     document.querySelectorAll("button.number-button");
+        // });
+
+        const buttons = document.querySelectorAll('button');
+        for (let i = 0; i < buttons.length; i++) {
+            buttons[i].addEventListener("click", function(event) {
+
+                el_focus.value = el_focus.value + event.currentTarget.value
+            })
+        }
+
         app.receivedEvent('deviceready');
     },
     // Update DOM on a Received Event
@@ -47,7 +72,6 @@ var app = {
         console.log('Received Event: ' + id);
     }
 };
-
 function euroConverter(){
     document.converter.dollar.value = document.converter.euro.value * 1.470;
 }
@@ -59,25 +83,4 @@ function dot() {
 }
 function remove() {
     document.getElementById("conv").reset();
-}
-
-
-const inputs = ['value', 'value2'];
-let el_focus;
-window.addEventListener('focus', function( event ) {
-    const el = event.path[0];
-    if (inputs.includes(el.id) ) {
-        el_focus = el;
-    }
-}, true);
-
-document.getElementById('button').addEventListener('click', ()=>{
-    console.log(el_focus);
-    document.querySelectorAll("button.number-button");
-});
-
-for (i = 0; i < buttons.length; i++) {
-    buttons[i].addEventListener("click", function(event) {
-        input.value = input.value + event.currentTarget.value
-    })
 }
